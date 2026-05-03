@@ -1,0 +1,50 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 148
+        },
+        "id": "hbGA0Op-MgLA",
+        "outputId": "e4656376-09dd-4a94-fe35-77fe233ea36a"
+      },
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "invalid decimal literal (4153304980.py, line 2)",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"/tmp/ipykernel_4035/4153304980.py\"\u001b[0;36m, line \u001b[0;32m2\u001b[0m\n\u001b[0;31m    https://colab.research.google.com/drive/1PgQrXmxqjUYXh66qyFAwlIFMQ6nV53PB#scrollTo=Z4UMtqZ13cYK&line=41&uniqifier=1\u001b[0m\n\u001b[0m                                            ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid decimal literal\n"
+          ]
+        }
+      ],
+      "source": [
+        "Desafio 1: O Criador de Emojis\n",
+        "https://colab.research.google.com/drive/1PgQrXmxqjUYXh66qyFAwlIFMQ6nV53PB#scrollTo=Z4UMtqZ13cYK&line=41&uniqifier=1\n",
+        "\n",
+        "Desafio 2: Matrizes Musicais\n",
+        "https://colab.research.google.com/drive/1PgQrXmxqjUYXh66qyFAwlIFMQ6nV53PB#scrollTo=NX-6DCO44Lmb&line=9&uniqifier=1\n",
+        "\n",
+        "Desafio 3: O Integrador\n",
+        "https://colab.research.google.com/drive/1PgQrXmxqjUYXh66qyFAwlIFMQ6nV53PB#scrollTo=NyGJ1bNl4T9Q&line=6&uniqifier=1"
+      ]
+    }
+  ]
+}
