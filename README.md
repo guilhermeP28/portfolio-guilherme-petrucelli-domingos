@@ -1,55 +1,55 @@
 # Guilherme Petrucelli Domingos
-> Estudante de Análise e desenvolvimento de sistemas
- 
+> Estudante de Análise e Desenvolvimento de Sistemas (ADS)[cite: 14]
+
 ---
- 
+
 ### 📫 Contato & Redes Sociais
-www.linkedin.com/in/guilherme-petrucelli-052426240
-guilhermeok8@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-petrucelli-domingos)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Guilhermepetrucelli433@gmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./Exercício+1++21.03.2026.pdf)
 
- 
 ---
- 
+
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Analise e desenvolvimento de sistemas na Universidade cidade de São Paulo Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
+Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**[cite: 14]. Possuo uma base sólida em gestão de estoque e logística, vinda da minha experiência profissional como almoxarife[cite: 17], e agora aplico esse conhecimento no desenvolvimento de soluções tecnológicas e automação de processos.
 
- Não Possuo Experiência
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+* **Foco Atual:** Desenvolvimento Backend com Python e Lógica de Programação aplicada a cenários reais[cite: 4, 13].
+* **Habilidades Técnicas:** Python 3.10, Lógica Condicional Aninhada, Tratamento de Dados (Outliers e Normalização) e Modelagem de Fluxogramas[cite: 12, 16].
+* **Diferencial:** Experiência prática em conferência de NF's e organização de materiais[cite: 17], o que me permite criar softwares de logística que realmente atendem às necessidades do setor[cite: 4, 9].
 
- 
 ---
- 
+
 ### 🛠 Minhas Ferramentas Favoritas
- 
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- 
-#### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- 
+
 #### 🤖 Inteligência Artificial & Ciência de Dados
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- 
+
 ---
- 
+
 ### 📂 Portfólio de Projetos
- 
-#### 🗃️ Modelagem de Banco de Dados
+
+#### 🚚 Logística & Inventário
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
-#### 🤖 Inteligência Artificial
+| **LogisticsFlow** | Automação de pedidos com verificação de estoque e roteirização[cite: 4, 6]. | [Ver Projeto](./logistics-flow/) |
+| **Inventory Control** | Sistema de vendas com cálculo automatizado de troco e saldos[cite: 7, 9]. | [Ver Projeto](./inventory/) |
+
+#### 🏃 Simulação & Segurança
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
+| **Spatial Safety** | Algoritmo de evacuação espacial com gestão de energia e obstáculos[cite: 13, 14]. | [Ver Projeto](./spatial-safety/) |
+| **Data Audit** | Exercícios de normalização e tratamento de outliers para auditoria[cite: 16]. | [Ver Projeto](./data-audit/) |
+
 ---
- 
+
 ### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `root/`: Apresentação principal e currículo[cite: 17].
+- `/logistics-flow/`: Código-fonte da automação de transporte[cite: 4].
+- `/spatial-safety/`: Simulação de navegação e reflexões críticas sobre lógica[cite: 14].
+- `/data-audit/`: Documentação sobre integridade de dados e segurança de variáveis[cite: 16].
+
+---
+*“Programar é montar um plano de segurança onde cada if e else serve para garantir que o caminho seja o mais eficiente possível.”*[cite: 14]
