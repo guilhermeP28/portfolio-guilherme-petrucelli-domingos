@@ -15,7 +15,7 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 
 * **Foco Atual:** Desenvolvimento Backend com Python e Lógica de Programação aplicada a cenários reais[cite: 4, 13].
 * **Habilidades Técnicas:** Python 3.10, Lógica Condicional Aninhada, Tratamento de Dados (Outliers e Normalização) e Modelagem de Fluxogramas[cite: 12, 16].
-* **Diferencial:** Experiência prática em conferência de NF's e organização de materiais[cite: 17], o que me permite criar softwares de logística que realmente atendem às necessidades do setor[cite: 4, 9].
+* **Diferencial:** Experiência prática em conferência de NF's e organização de materiais[cite: 17], o que me permite criar softwares de logística que realmente atendem às necessidades do setor.
 
 ---
 
@@ -34,14 +34,14 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 #### 🚚 Logística & Inventário
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **LogisticsFlow** | Automação de pedidos com verificação de estoque e roteirização[cite: 4, 6]. | [Ver Projeto](./logistics-flow/) |
-| **Inventory Control** | Sistema de vendas com cálculo automatizado de troco e saldos[cite: 7, 9]. | [Ver Projeto](./inventory/) |
+| **LogisticsFlow** | Automação de pedidos com verificação de estoque e roteirização | [Ver Projeto](./logistics-flow/) |
+| **Inventory Control** | Sistema de vendas com cálculo automatizado de troco e saldos | [Ver Projeto](./inventory/) |
 
 #### 🏃 Simulação & Segurança
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Spatial Safety** | Algoritmo de evacuação espacial com gestão de energia e obstáculos[cite: 13, 14]. | [Ver Projeto](./spatial-safety/) |
-| **Data Audit** | Exercícios de normalização e tratamento de outliers para auditoria[cite: 16]. | [Ver Projeto](./data-audit/) |
+| **Spatial Safety** | Algoritmo de evacuação espacial com gestão de energia e obstáculos | [Ver Projeto](./spatial-safety/) |
+| **Data Audit** | Exercícios de normalização e tratamento de outliers para auditoria | [Ver Projeto](./data-audit/) |
 
 ---
 
