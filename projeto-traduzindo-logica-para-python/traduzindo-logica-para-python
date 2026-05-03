@@ -1,0 +1,81 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "S5NqTjGYG0bD"
+      },
+      "outputs": [],
+      "source": [
+        "1 https://colab.research.google.com/drive/1vmTHAgR43IxwcAyXB0jro0J5RYtaQpVN#scrollTo=rWZnvTcxkjA&line=8&uniqifier=1\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "2 https://colab.research.google.com/drive/1vmTHAgR43IxwcAyXB0jro0J5RYtaQpVN#scrollTo=2x92QKC5xzqJ&line=13&uniqifier=1\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "3 https://colab.research.google.com/drive/1vmTHAgR43IxwcAyXB0jro0J5RYtaQpVN#scrollTo=H7ZqsoxIx7f4&line=2&uniqifier=1\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "4 https://colab.research.google.com/drive/1vmTHAgR43IxwcAyXB0jro0J5RYtaQpVN#scrollTo=zyRat1RQyL_7&line=3&uniqifier=1\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "1. Sobre Tipagem e input()\n",
+        "\n",
+        "\n",
+        "\n",
+        "Comportamento Padrão: Em Python, a função input() sempre retorna o dado como uma String (texto), mesmo que o usuário digite números.\n",
+        "\n",
+        "Consequências: Se as funções int() ou float() não forem usadas, não será possível realizar cálculos matemáticos. O operador de soma (+), por exemplo, irá apenas concatenar (juntar) os textos (ex: \"5\" + \"5\" vira \"55\"). Outras operações, como subtração ou divisão, causarão um erro de execução (TypeError).\n",
+        "\n",
+        "2. Sobre Estruturas e range()\n",
+        "\n",
+        "\n",
+        "\n",
+        "Sintaxe Correta: Para incluir o último número (ex: de 1 até o total de meses), deve-se usar range(1, total_meses + 1).\n",
+        "\n",
+        "Diferença do Pseudocódigo: Ao contrário do pseudocódigo tradicional, o limite superior do range() em Python é exclusivo (o número final não entra na contagem).\n",
+        "\n",
+        "Por que é assim? Isso ocorre porque o Python utiliza índice zero e foca na \"distância\" entre os números. O range(5) gera 5 números (0 a 4). Para o programador, a diferença entre o fim e o início ($6 - 1 = 5$) indica exatamente quantas vezes o laço irá repetir, facilitando a manipulação de listas de dados."
+      ]
+    }
+  ]
+}
