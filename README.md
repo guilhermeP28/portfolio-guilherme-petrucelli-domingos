@@ -1,5 +1,5 @@
 # Guilherme Petrucelli Domingos
-> Estudante de Análise e Desenvolvimento de Sistemas (ADS)[cite: 14]
+> Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 ---
 
@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 Sobre
-Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**[cite: 14]. Possuo uma base sólida em gestão de estoque e logística, vinda da minha experiência profissional como almoxarife[cite: 17], e agora aplico esse conhecimento no desenvolvimento de soluções tecnológicas e automação de processos.
+Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. Possuo uma base sólida em gestão de estoque e logística, vinda da minha experiência profissional como almoxarife, e agora aplico esse conhecimento no desenvolvimento de soluções tecnológicas e automação de processos.
 
 * **Foco Atual:** Desenvolvimento Backend com Python e Lógica de Programação aplicada a cenários reais[cite: 4, 13].
 * **Habilidades Técnicas:** Python 3.10, Lógica Condicional Aninhada, Tratamento de Dados (Outliers e Normalização) e Modelagem de Fluxogramas[cite: 12, 16].
