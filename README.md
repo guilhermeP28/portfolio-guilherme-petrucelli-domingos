@@ -33,16 +33,14 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 
 ### 📂 Portfólio de Projetos
 
-#### 🚚 Logística & Inventário
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto-Engenharia de contexto e logica fisica** | Automação de pedidos com verificação de estoque e roteirização | [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-Engenharia-de-contexto-e-logica-fisica) |
+| **Projeto-Engenharia de contexto e logica fisica** |Sistema desenvolvido para a disciplina de Análise e Desenvolvimento de Sistemas, que traduz cenários reais complexos em algoritmos computacionais.| [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-Engenharia-de-contexto-e-logica-fisica) |
 | **projeto desenhando emojis com dados** | Sistema de vendas com cálculo automatizado de troco e saldos | [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-desenhando-emojis-com-dados) |
 
-#### 🏃 Simulação & Segurança
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| ** Spatial Safety ** | Algoritmo de evacuação espacial com gestão de energia e obstáculos | [Ver Projeto](./spatial-safety/) |
+| ** projeto-modularização ** | Algoritmo de evacuação espacial com gestão de energia e obstáculos |   [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-modulariza%C3%A7%C3%A3o) |
 | ** Data Audit ** | Exercícios de normalização e tratamento de outliers para auditoria | [Ver Projeto](./data-audit/) |
 | **sistema de auditoria de recursos corporativos** | Sistema Python para cálculo e auditoria de orçamentos empresariais utilizando decorators, recursão e estruturas de dados aninhadas.     | [ver projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/sistema-de-auditoria-de-recursos-corporativos)
 ---
