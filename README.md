@@ -44,7 +44,7 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 | :--- | :--- | :---: |
 | **Spatial Safety** | Algoritmo de evacuação espacial com gestão de energia e obstáculos | [Ver Projeto](./spatial-safety/) |
 | **Data Audit** | Exercícios de normalização e tratamento de outliers para auditoria | [Ver Projeto](./data-audit/) |
-| **sistema-de-auditoria-de-recursos-corporativos ** | Sistema Python para cálculo e auditoria de orçamentos empresariais utilizando **decorators**, **recursão** e **estruturas de dados aninhadas**.      | [ver projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/sistema-de-auditoria-de-recursos-corporativos)
+| **sistema-de-auditoria-de-recursos-corporativos ** | Sistema Python para cálculo e auditoria de orçamentos empresariais utilizando decorators, recursão e estruturas de dados aninhadas.     | [ver projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/sistema-de-auditoria-de-recursos-corporativos)
 ---
 
 ### 🏗 Estrutura do Repositório
