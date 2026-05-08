@@ -42,7 +42,7 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 | :--- | :--- | :---: |
 | ** projeto-modularização ** | Algoritmo de evacuação espacial com gestão de energia e obstáculos |     [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-modulariza%C3%A7%C3%A3o) |
 | ** projeto-traduzindo-logica-para-python ** | Exercícios de normalização e tratamento de outliers para auditoria | [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-traduzindo-logica-para-python) |
-| **sistema de auditoria de recursos corporativos** | Sistema Python para cálculo e auditoria de orçamentos empresariais utilizando decorators, recursão e estruturas de dados aninhadas.     | [ver projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/sistema-de-auditoria-de-recursos-corporativos)
+| **Projeto-o-algoritmo-de-autoria-de-dados** | Sistema Python para cálculo e auditoria de orçamentos empresariais utilizando decorators, recursão e estruturas de dados aninhadas.     | [ver projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/Projeto-o-algoritmo-de-autoria-de-dados)
 ---
 
 ### 🏗 Estrutura do Repositório
