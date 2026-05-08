@@ -36,7 +36,7 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 #### 🚚 Logística & Inventário
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **LogisticsFlow** | Automação de pedidos com verificação de estoque e roteirização | [Ver Projeto](./logistics-flow/) |
+| **Projeto-Engenharia de contexto e logica fisica** | Automação de pedidos com verificação de estoque e roteirização | [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-Engenharia-de-contexto-e-logica-fisica) |
 | **Inventory Control** | Sistema de vendas com cálculo automatizado de troco e saldos | [Ver Projeto](./inventory/) |
 
 #### 🏃 Simulação & Segurança
