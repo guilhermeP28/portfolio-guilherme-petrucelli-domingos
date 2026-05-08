@@ -37,7 +37,7 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Projeto-Engenharia de contexto e logica fisica** | Automação de pedidos com verificação de estoque e roteirização | [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-Engenharia-de-contexto-e-logica-fisica) |
-| **Inventory Control** | Sistema de vendas com cálculo automatizado de troco e saldos | [Ver Projeto](./inventory/) |
+| **projeto desenhando emojis com dados** | Sistema de vendas com cálculo automatizado de troco e saldos | [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-desenhando-emojis-com-dados) |
 
 #### 🏃 Simulação & Segurança
 | Projeto | Descrição | Link |
