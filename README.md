@@ -40,11 +40,11 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **projeto modularização** | Algoritmo de evacuação espacial com gestão de energia e obstáculos |     [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-modulariza%C3%A7%C3%A3o) |
-| **projeto traduzindo logica para python** | Exercícios de normalização e tratamento de outliers para auditoria | [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-traduzindo-logica-para-python) |
+| **projeto modularização** | Sistema Python que automatiza o ciclo completo de vendas e logística: desde a gestão de estoque e validação de pagamentos até o cálculo de troco otimizado e roteirização de entregas. |     [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-modulariza%C3%A7%C3%A3o) |
+| **projeto traduzindo logica para python** | Sistema Python que integra gestão de estoque, processamento de vendas com cálculo automático de troco (cédulas de R$ 2 a R$ 200) e roteirização de entregas. | [Ver Projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-traduzindo-logica-para-python) |
 | **Projeto o algoritmo de autoria de dados** | Sistema Python para cálculo e auditoria de orçamentos empresariais utilizando decorators, recursão e estruturas de dados aninhadas.     | [ver projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/Projeto-o-algoritmo-de-autoria-de-dados)
-| **sistema de auditoria de recurso** | dasdsad | [ver projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/sistema-de-auditoria-de-recursos-corporativos)
-| **projeto engenharia de soluções** | dasdsads | [ver projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-engenharia-de-solu%C3%A7%C3%B5es)
+| **sistema de auditoria de recurso** | Sistema Python que calcula orçamentos corporativos em estruturas hierárquicas  | [ver projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/sistema-de-auditoria-de-recursos-corporativos)
+| **projeto engenharia de soluções** | Implementa lógica de decisão baseada em fluxogramas técnicos com verificação automática de disponibilidade, cálculo de rotas por distância e status de rastreio "Em Trânsito". | [ver projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-engenharia-de-solu%C3%A7%C3%B5es)
 ---
 
 ### 🏗 Estrutura do Repositório
