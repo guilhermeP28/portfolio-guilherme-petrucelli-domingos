@@ -54,4 +54,4 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 - `/data-audit/`: Documentação sobre integridade de dados e segurança de variáveis.
 
 ---
-*“Programar é montar um plano de segurança onde cada if e else serve para garantir que o caminho seja o mais eficiente possível.”*[cite: 14]
+*“Programar é montar um plano de segurança onde cada if e else serve para garantir que o caminho seja o mais eficiente possível.
