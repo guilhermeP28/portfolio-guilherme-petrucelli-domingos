@@ -54,7 +54,7 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 - `Projeto-Engenharia de contexto e logica fisica/`:spatial-safety/projeto_engenharia_contexto/
 - `projeto desenhando emojis com dados/`:	spatial-safety/projeto_desenhando_emojis/
 - `projeto modularização/`:	logistics-flow/projeto_modularizacao/
-- `projeto traduzindo logica para python/`:	logistics-flow/projeto_traduzindo_logica/
+- `projeto traduzindo lógica para python/`:	logistics-flow/projeto_traduzindo_logica/
 - `Projeto o algoritmo de autoria de dados/`:	data-audit/projeto_algoritmo_autoria/
 - `sistema de auditoria de recurso/`:	data-audit/sistema_auditoria_recurso/
 - `projeto engenharia de soluções/`:	logistics-flow/projeto_engenharia_solucoes/
