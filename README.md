@@ -47,7 +47,7 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 | **projeto engenharia de soluções** | Implementa lógica de decisão baseada em fluxogramas técnicos com verificação automática de disponibilidade, cálculo de rotas por distância e status de rastreio "Em Trânsito". | [ver projeto](https://github.com/guilhermeP28/portf-lio-guilherme-petrucelli-domingos/tree/main/projeto-engenharia-de-solu%C3%A7%C3%B5es)
 ---
 
-### 🏗 Estrutura do Repositório
+
 - `root/`: Apresentação principal e currículo.
 - `/logistics-flow/`: Código-fonte da automação de transporte.
 - `/spatial-safety/`: Simulação de navegação e reflexões críticas sobre lógica.
@@ -56,9 +56,8 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 ---
 *“Programar é montar um plano de segurança onde cada if e else serve para garantir que o caminho seja o mais eficiente possível.
 
-
-Mapeamento dos Projetos
-- `Projeto	Pasta Destino/`:
+### 🏗 Estrutura do Repositório
+- `root/`: Apresentação principal e currículo.
 - `Projeto-Engenharia de contexto e logica fisica/`:spatial-safety/projeto_engenharia_contexto/
 - `projeto desenhando emojis com dados/`:	spatial-safety/projeto_desenhando_emojis/
 - `projeto modularização/`:	logistics-flow/projeto_modularizacao/
