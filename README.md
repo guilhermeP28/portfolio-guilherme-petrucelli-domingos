@@ -48,13 +48,6 @@ Atualmente sou calouro no curso de **Análise e Desenvolvimento de Sistemas**. P
 ---
 
 
-- `root/`: Apresentação principal e currículo.
-- `/logistics-flow/`: Código-fonte da automação de transporte.
-- `/spatial-safety/`: Simulação de navegação e reflexões críticas sobre lógica.
-- `/data-audit/`: Documentação sobre integridade de dados e segurança de variáveis.
-
----
-*“Programar é montar um plano de segurança onde cada if e else serve para garantir que o caminho seja o mais eficiente possível.
 
 ### 🏗 Estrutura do Repositório
 - `root/`: Apresentação principal e currículo.
